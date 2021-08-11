@@ -1,9 +1,8 @@
-# Ozi-Select-Menu
+# Zeus-Select-Menu
 Paylaşalım artık şu menünün gelişmiş halini demi
-Selamlar Ben Ozi kendi sunucuma yaptığım role selection (en son veya gelismis hali diyelim ona) altyapısını paylaşmak istedim ilk yapışım umarım beğenip star atarsınız 
+Selamlar Ben Zeus kendi sunucuma yaptığım role selection (en son veya gelismis hali diyelim ona) altyapısını paylaşmak istedim ilk yapışım umarım beğenip star atarsınız 
 
-# Sunucumuz
-⦁ https://discord.gg/fearless 
+
 
 # Not 
 O Burç ve renk seçim kısımlarında altlarda rol alma yerine idleri yazarsınız biraz uğraştırıyorum ama k.b bende uğraştım sonuçta ;/ (Anlayışınız için teşekkürler)

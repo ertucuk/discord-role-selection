@@ -1,12 +1,12 @@
 {
-  "name": "ozi-github-roleselection",
+  "name": "zeus-github-roleselection",
   "version": "1.0.0",
-  "description": "Ozi & BotYapmak",
-  "main": "ozi.js",
+  "description": "zeus & BotYapmak",
+  "main": "zeus.js",
   "scripts": {
     "test": "node. "
   },
-  "author": "Ozi Ab eyw güzel bot yapmıssın",
+  "author": "zeus Ab eyw güzel bot yapmıssın",
   "license": "MIT",
   "dependencies": {
     "discord-buttons": "^4.0.0",
